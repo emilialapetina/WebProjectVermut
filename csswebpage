@@ -1,0 +1,9 @@
+.nav{
+			list-style-type: none;
+			margin-right: 0px
+		}
+.nav li {
+			display: block;
+			width: 100px;
+			float: right;
+		}
