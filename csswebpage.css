@@ -1,0 +1,24 @@
+.nav{
+			list-style-type: none;
+			margin-right: 0px;
+			margin-left: auto;
+			width: 350px;
+		}
+.nav li {
+			display: block;
+			width: 60px;
+			float: right;
+		}
+
+.nav li:hover{ background-color: #000000;
+		 color: #ffffff ;
+
+
+}
+a:visited{
+	color: #000;
+}
+
+.active{ background-color: #ffffff
+
+}
